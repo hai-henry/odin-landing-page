@@ -31,7 +31,7 @@ html {
 
 .header {
 	justify-content: space-between;
-	padding: 20px 80px;
+	padding: 20px 150px;
 }
 
 .header ul {
@@ -44,7 +44,7 @@ html {
 	flex-direction: row;
 	justify-content: space-between;
 	align-items: center;
-	padding: 80px 80px;
+	padding: 80px 150px;
 	color: #f9faf8;
 }
 
