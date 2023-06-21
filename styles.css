@@ -65,6 +65,15 @@ html {
 	width: 300px;
 }
 
+.photo-credits {
+	font-size: 12px;
+	color: grey;
+}
+
+.photo-credits a {
+	color: #f9faf8;
+}
+
 .row-one-lower button {
 	background-color: #3882f6;
 	color: white;
