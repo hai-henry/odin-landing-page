@@ -19,7 +19,8 @@ html {
 	margin: 0;
 	padding: 0;
 	background-color: #1f2937;
-	padding: 20px 150px;
+	padding: 30px 150px;
+	height: 450px;
 }
 
 .header,
@@ -90,6 +91,7 @@ html {
 	justify-content: center;
 	align-items: center;
 	padding: 40px 150px;
+	height: 400px;
 }
 
 .row-two .title {
@@ -135,4 +137,25 @@ html {
 
 .illustration-row a {
 	color: black;
+}
+
+.row-three {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 0 150px;
+	background-color: #e5e7eb;
+	color: #1f2937;
+	height: 400px;
+}
+
+.row-three .quote {
+	font-size: 36px;
+	font-weight: 100;
+	font-style: italic;
+}
+
+.row-three .quote-author {
+	align-self: flex-end;
+	padding: 20px 0;
 }
