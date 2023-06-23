@@ -4,7 +4,7 @@ Odin Project: Landing Page
 
 Using HTML and CSS to create a landing page for the Odin Project.
 
-For practice and educational purposes only. I do not own the rights to the images used in this project.
+For practice and educational purposes only. I do not own the rights to the images used in this project. The photo behind the title "Pure Essence" is by Photo by <a href="https://unsplash.com/@rgaleriacom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ricardo Gomez Angel</a> on <a href="https://unsplash.com/photos/otf25n2UETg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Live preview: https://hai-henry.github.io/odin-landing-page/
 
